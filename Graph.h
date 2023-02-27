@@ -22,8 +22,6 @@ public:
 
 	void Deg_plus(int);
 
-	void Deg_minus(int);
-
 	int* TopologicalSort();
 };
 
